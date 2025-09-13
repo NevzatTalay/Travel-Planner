@@ -1,0 +1,5 @@
+{
+  "name": "React Auth System",
+  "description": "A simple yet elegant login and registration system built with React, TypeScript, and Tailwind CSS, using localStorage for session persistence.",
+  "requestFramePermissions": []
+}
